@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/newResourse">
+        <file>add.png</file>
+        <file>approve.png</file>
+        <file>cancel.png</file>
+        <file>checklist.png</file>
+        <file>download.png</file>
+        <file>file.png</file>
+        <file>inbox.png</file>
+        <file>invoice.png</file>
+        <file>ResourseIcon.qrc</file>
+        <file>save.png</file>
+        <file>search.png</file>
+        <file>setting.png</file>
+        <file>suitcase.png</file>
+        <file>transfer.png</file>
+    </qresource>
+</RCC>
